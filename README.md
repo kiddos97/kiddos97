@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kiddos97
-- 👀 I’m interested in python and data science 
-- 🌱 I’m currently learning data mining 
-- 💞️ I’m looking to collaborate on amazing data science projects
+- 👀 I’m interested in Web Development.
 - 📫 How to reach me ...
 
 <!---
